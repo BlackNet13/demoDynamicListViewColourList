@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demoDynamicListViewColourList</string>
+    <string name="btnAddColour">ADD NEW COLOUR</string>
+    <string name="hint">Enter new colour</string>
+    <string name="hint2">Enter position index</string>
+    <string name="btnRemoveColour">REMOVE A COLOUR</string>
+    <string name="btnUpdateColour">UPDATE A COLOUR</string>
+</resources>
